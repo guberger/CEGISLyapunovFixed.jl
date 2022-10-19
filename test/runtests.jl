@@ -1,0 +1,5 @@
+include("test_learner_fixed_chebyshev.jl")
+include("test_learner_fixed_mve.jl")
+include("test_verifier.jl")
+include("test_process_fixed_chebyshev.jl")
+include("test_process_fixed_mve.jl")
